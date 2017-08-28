@@ -1,3 +1,3 @@
-# Scratch to Phonegap
+# Scratchpad
 
-This is repo is for people who want to make apps using Scratch. To use, simply replace index.html with the source code of a project in fullscreen when in Phosphorus. config.xml also has some fun things to change around. :)
+This is a repo to build an app on phonegap, thanks to karatebuilderboy for scratch-to-phonegap.
